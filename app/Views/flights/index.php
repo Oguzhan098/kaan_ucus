@@ -54,7 +54,3 @@ $error   = $error ?? '';
     <?php endif; ?>
     </tbody>
 </table>
-
-<div>
-
-</div>
